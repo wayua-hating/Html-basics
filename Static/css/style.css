@@ -1,0 +1,87 @@
+body{
+    background-color: bisque;
+    font-family: serif;
+    margin-left: 20%;
+}
+h1{
+    color: aqua;
+   text-align: center;
+}
+h2{
+    color: black;
+    text-decoration: solid;
+}
+p{
+    color: rgb(219, 82, 82);
+}
+#one{
+    color: blueviolet;
+}
+.abc{
+    color: chartreuse;
+}
+.hello{
+    color: rgb(176, 108, 19);
+}
+.goals{
+    color: black;
+    text-decoration: underline;
+}
+#header{
+    background-color: chocolate;
+    text-align: center;
+    padding: 25px;
+    border: 1px solid brown;
+    border-radius: 25px;
+    border-width: 15px;
+}
+#content{
+    background-color: grey;
+    width: 95%;
+    margin:25px auto;
+    padding: 95px;
+    text-align: center;
+}
+.chrome{
+    background-color: lightblue;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    border-width: 35px;
+}
+#hero{
+    text-align: center;
+    background-image: url(../css/pexels-luis-gomes-166706-546819.jpg); height: 250px; width: 1000px;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+
+}
+#nav{
+    background-color: aquamarine;
+    padding: 15px
+}
+#nav ul{
+    list-style-type: none;
+}
+#nav ul li{
+    display: inline;
+    margin:0 30px;
+}
+#nav ul li{
+    text-decoration: none;
+    color: black;
+    font-weight: bold ;
+    padding: 20px 25px;
+}
+#nav ul li a:hover{
+    color: blueviolet;
+    background-color: aliceblue;
+}
+#six{
+    color: black;
+    text-decoration: underline;
+}
+
+

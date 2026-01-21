@@ -1,0 +1,40 @@
+h2{
+    color:bisque;
+    text-align: center;
+    text-decoration: dotted;
+}
+body{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5%;
+}
+h3{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: dotted;
+}
+th{
+    /*border width: 2px
+    border color: red
+    border style: solid;*/ 
+    border: 1px pink;
+    text-align: center;
+    background-color: aqua;
+}
+td{
+    border: 1px solid burlywood;
+    text-align: center;
+    background-color: brown;
+}
+table{
+    width: 50%;
+    margin: 20PX auto;
+}
+p{
+    color: aquamarine;
+    text-decoration: line-through;
+}
+h3{
+    color: blueviolet;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: cadetblue;
+    font-family: 'Franklin Gothic Medium';
+}
+h2{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+#myform{
+    border: 1px; color: blue;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(169, 177, 193);
+    border-radius: 56px;
+}
+input,textarea{
+    border: 2px solid rgb(51, 11, 196);
+    border-radius: 15px;
+    padding: 0px;
+}
+label{
+    font-weight: bold;
+    display: block;
+}
+input[Type="submit"]{
+background-color: aquamarine;
+color: rgb(164, 176, 176);
+margin-top: 10px;
+font-weight: bold;
+border: none;
+cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: lightskyblue;
+}
+
