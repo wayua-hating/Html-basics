@@ -1,0 +1,25 @@
+body{
+    background-color: darksalmon;
+    font-family: cursive;
+}
+#container{
+    background-color: rgb(205, 184, 159);
+    padding: 20px;
+    display:flex;
+    gap:10px;
+}
+.service{
+ background-color: rgb(229, 214, 155);
+    border: 2px solid rgb(202, 90, 90);
+    border-radius: 5px;
+    flex: 1;
+}
+/* adding responsives */
+@media(max-width:768px){
+    body{
+   background-color: rgb(235, 101, 56);
+    }
+}
+#container{
+    flex-direction: column;
+}
